@@ -44,19 +44,16 @@ def create_sock():
 		data = (host, args.port)
 
 	return sock, data
-			#] 
-      This Script Was Made By: BLU3#1337 On Discord
-      #]
-
+			#] This Script Was Made By: BLU3#1337 On Discord
 i = 0
 
 print("""\
-    ____  __    __  __ ____
-   / __ )/ /   / / / /__  /
-  / __  / /   / / / / /_ < 
- / /_/ / /___/ /_/ /___/ / 
-/_____/_____/\____//____/  
-                           
+██████\x1b[35m╗\x1b[0m ██\x1b[35m╗ \x1b[0m    ██\x1b[35m╗\x1b[0m   ██\x1b[35m╗\x1b[0m██████\x1b[35m╗\x1b[0m 
+██\x1b[35m╔══\x1b[0m██\x1b[35m╗\x1b[0m██\x1b[35m║\x1b[0m     ██\x1b[35m║\x1b[0m   ██\x1b[35m║╚════\x1b[0m██\x1b[35m╗\x1b[0m
+██████\x1b[35m╔╝\x1b[0m██\x1b[35m║\x1b[0m     ██\x1b[35m║\x1b[0m   ██\x1b[35m║\x1b[0m █████\x1b[35m╔╝\x1b[0m
+██\x1b[35m╔══\x1b[0m██\x1b[35m╗\x1b[0m██\x1b[35m║\x1b[0m     ██\x1b[35m║\x1b[0m   ██\x1b[35m║\x1b[0m \x1b[35m╚═══\x1b[0m██\x1b[35m╗\x1b[0m
+██████\x1b[35m╔╝\x1b[0m███████╗╚\x1b[0m██████\x1b[35m╔╝\x1b[0m██████\x1b[35m╔╝\x1b[0m
+\x1b[35m╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝
                     """)
 
 if args.host != host:
